@@ -2,7 +2,8 @@ Part 1: Write your message here from GitHub
 Howdy Howdy
 Task 1: 
 // Under this line, describe what the command 'git fetch' does
-
+This command is used to download files from a remote repository.
 Task 2:
 // Under this line, describe the difference between Git and GitHub
-
+Git is the local repository, whereas GitHub is a hosting service
+for remote repositories.
